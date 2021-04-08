@@ -16,6 +16,6 @@ entries:
       title: Deck
       url: deck.html
     output: web
-    title: deck_of_cards_new
+    title: deck_of_cards
   output: web
   title: Sidebar
